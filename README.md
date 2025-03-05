@@ -7,8 +7,11 @@ The **Decentralized Alibi** smart contract allows users to **prove their presenc
 ## ❓ Why use it?
 
 🔹 **Immutable Proof**: Records are permanently stored on the blockchain, making them tamper-proof.
+
 🔹 **Privacy-Preserving**: Instead of revealing exact locations, users submit a **hashed version** to maintain privacy.
+
 🔹 **Decentralized Verification**: Requires multiple independent witnesses to confirm a claim, preventing fraud.
+
 🔹 **Real-World Applications**:
 
 - 📜 **Legal Proof**: Users can prove they were at a location during a specific time.
